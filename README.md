@@ -5,3 +5,4 @@ The state class allows for only one of each of the switch statement states to be
 
 The observer is used to determine if something has happened using the ?.Invoke() command.
 The observer class is used to determine if the player car collides with an AI car, if it does it set to reset the scene.
+(Currently the game doesn't detect collision with other cars)
